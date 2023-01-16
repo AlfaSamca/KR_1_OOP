@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombermanMultiplayer", "BombermanMultiplayer\BombermanMultiplayer.csproj", "{E7B19E97-86DC-4339-AF03-E4005AAA6770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{20368FA7-AD91-4A0C-BF80-53BD4ACC92DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B19E97-86DC-4339-AF03-E4005AAA6770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B19E97-86DC-4339-AF03-E4005AAA6770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B19E97-86DC-4339-AF03-E4005AAA6770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B19E97-86DC-4339-AF03-E4005AAA6770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20368FA7-AD91-4A0C-BF80-53BD4ACC92DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20368FA7-AD91-4A0C-BF80-53BD4ACC92DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20368FA7-AD91-4A0C-BF80-53BD4ACC92DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20368FA7-AD91-4A0C-BF80-53BD4ACC92DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42373E4-F0A2-46EB-BA3D-948E17A61202}
+	EndGlobalSection
+EndGlobal

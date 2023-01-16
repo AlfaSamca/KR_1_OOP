@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\bin\Debug\BombermanMultiplayer.exe.config
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\bin\Debug\BombermanMultiplayer.exe
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\bin\Debug\BombermanMultiplayer.pdb
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.GameWindow.resources
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.MainMenu.resources
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.Properties.Resources.resources
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.exe
+C:\Users\User\Desktop\Bomberman-master\BombermanMultiplayer\obj\Debug\BombermanMultiplayer.pdb
